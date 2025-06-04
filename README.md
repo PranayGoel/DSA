@@ -10,5 +10,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/PranayGoel/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [2808-painting-the-walls](https://github.com/PranayGoel/DSA/tree/master/2808-painting-the-walls) |
+## String
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/PranayGoel/DSA/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
