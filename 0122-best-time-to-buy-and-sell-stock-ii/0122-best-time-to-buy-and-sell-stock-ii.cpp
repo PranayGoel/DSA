@@ -20,6 +20,7 @@ public:
 
         //return f(0, 1, prices, dp);
 
+        /*
         vector<vector<long>> dp(prices.size()+1, vector<long>(2, 0));
 
         for(int ind = prices.size()-1; ind >=  0; ind--){
@@ -33,5 +34,24 @@ public:
 
         }
         return dp[0][1];
+        */
+
+        vector<long> ahead(2,0), cur(2,0);
+        
+        for(int ind = prices.size()-1; ind>=0; ind--){
+            for(int buy = 0; buy <= 1; buy++){
+                long profit = 0;
+                if(buy){
+                    profit = max((-prices[ind] + ahead[0]), ahead[1]);
+
+                }
+                else
+                    profit = max((prices[ind] + ahead[1]), ahead[0]);
+
+                cur[buy]  =profit;
+            }
+            ahead = cur;
+        }
+        return ahead[1];
     }
 };
