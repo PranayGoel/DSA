@@ -40,7 +40,8 @@ public:
         */
 
         //bottom up with space optimization
-        
+        // tc - o(n^2), sc - o(n)
+        /*
         int n = nums.size();
         vector<int> ahead(n+1, 0), cur(n+1, 0);
 
@@ -56,6 +57,22 @@ public:
         }
 
         return ahead[-1+1];
+        */
 
+        int n=  nums.size();
+        vector<int> temp;
+        temp.push_back(nums[0]);
+        int len = 1;
+
+        for(int i = 1; i< n; i++){
+            if(nums[i] > temp.back()){
+                temp.push_back(nums[i]);
+                len++;
+            }else{
+                int ind = lower_bound(temp.begin(), temp.end(), nums[i]) - temp.begin();
+                temp[ind] = nums[i];
+            }
+        }   
+        return len;
     }
 };
