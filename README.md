@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PranayGoel/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/PranayGoel/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PranayGoel/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/PranayGoel/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/PranayGoel/DSA/tree/master/0115-distinct-subsequences) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/PranayGoel/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PranayGoel/DSA/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/PranayGoel/DSA/tree/master/0368-largest-divisible-subset) |
 ## Sorting
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PranayGoel/DSA/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PranayGoel/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
