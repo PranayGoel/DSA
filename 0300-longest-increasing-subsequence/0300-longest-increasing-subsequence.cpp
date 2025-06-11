@@ -22,8 +22,8 @@ public:
         int maxi = 1;
         for(int i = 1; i< n; i++){
             for(int prev = 0; prev < i; prev++){
-                if(nums[prev] < nums[i]){
-                    dp[i] = max(dp[i], 1 + dp[prev]);
+                if(nums[prev] < nums[i] && dp[prev] + 1 > dp[i]){
+                    dp[i] = dp[prev] +1;
                 }
             }
             maxi = max(maxi, dp[i]);
