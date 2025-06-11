@@ -11,7 +11,6 @@ public:
         }
         int maxLen = INT_MIN;
         for(auto it: st){
-            if(st.count(it-1) > 0) continue;
             if(st.count(it-1)  == 0){
                 int len = 1;
                 int num = it;
