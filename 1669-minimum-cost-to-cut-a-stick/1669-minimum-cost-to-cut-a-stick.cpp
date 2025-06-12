@@ -15,11 +15,24 @@ public:
     int minCost(int n, vector<int>& cuts) {
         int c = cuts.size();
 
-        vector<vector<int>>dp(c+1, vector<int>(c+1, -1));
+        vector<vector<int>>dp(c+2, vector<int>(c+2, 0));
         cuts.push_back(n);
         cuts.insert(cuts.begin(), 0);
         sort(cuts.begin(), cuts.end());
 
-        return f(1, c, cuts, dp);
+        //return f(1, c, cuts, dp);
+
+        for(int i = c; i >= 1; i--){
+            for(int j = 1; j <=c; j++){
+                if(i > j) continue;
+                int mini = INT_MAX;
+                for(int k = i; k <= j; k++){
+                    int cost = cuts[j+1] - cuts[i-1] + dp[i][k-1] + dp[k+1][j];
+                    if(cost < mini) mini = cost;
+                }
+                dp[i][j] = mini;
+            }
+        }
+        return dp[1][c];
     }
 };
