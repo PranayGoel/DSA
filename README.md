@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/PranayGoel/DSA/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/PranayGoel/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/PranayGoel/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/PranayGoel/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/PranayGoel/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/PranayGoel/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/PranayGoel/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/PranayGoel/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/PranayGoel/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/PranayGoel/DSA/tree/master/0322-coin-change) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PranayGoel/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/PranayGoel/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0226-invert-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PranayGoel/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -188,8 +191,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/PranayGoel/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PranayGoel/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/PranayGoel/DSA/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PranayGoel/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/PranayGoel/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
