@@ -1,7 +1,8 @@
 class Solution {
 public:
     int distance(int x1, int x2) {
-        return x1 * x1 + x2 * x2;
+        return x1 * x1 + x2 * x2; // root not required, as we just want the relative order, if using root, take float values
+        // eg. 4, 6 and 6, 5 both underroot after squaring will get floored to 7 -> so use float
     }
 
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
