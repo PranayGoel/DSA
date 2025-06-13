@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/PranayGoel/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/PranayGoel/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/PranayGoel/DSA/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/PranayGoel/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/PranayGoel/DSA/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/PranayGoel/DSA/tree/master/0403-frog-jump) |
 | [0494-target-sum](https://github.com/PranayGoel/DSA/tree/master/0494-target-sum) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PranayGoel/DSA/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranayGoel/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/PranayGoel/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PranayGoel/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/PranayGoel/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranayGoel/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/PranayGoel/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/PranayGoel/DSA/tree/master/0368-largest-divisible-subset) |
 | [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PranayGoel/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/PranayGoel/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/PranayGoel/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/PranayGoel/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PranayGoel/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/PranayGoel/DSA/tree/master/1129-longest-string-chain) |
 ## Two Pointers
@@ -216,13 +220,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranayGoel/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/PranayGoel/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranayGoel/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/PranayGoel/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PranayGoel/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PranayGoel/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
