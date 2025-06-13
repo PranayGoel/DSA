@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/PranayGoel/DSA/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/PranayGoel/DSA/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/PranayGoel/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/PranayGoel/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2808-painting-the-walls](https://github.com/PranayGoel/DSA/tree/master/2808-painting-the-walls) |
 ## Dynamic Programming
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PranayGoel/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/PranayGoel/DSA/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/PranayGoel/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/PranayGoel/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PranayGoel/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PranayGoel/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/PranayGoel/DSA/tree/master/1129-longest-string-chain) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/PranayGoel/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
 | ------- |
