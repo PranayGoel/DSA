@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/PranayGoel/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/PranayGoel/DSA/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PranayGoel/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PranayGoel/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PranayGoel/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1121-partition-array-for-maximum-sum](https://github.com/PranayGoel/DSA/tree/master/1121-partition-array-for-maximum-sum) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/PranayGoel/DSA/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/PranayGoel/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PranayGoel/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
 ## Tree
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PranayGoel/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranayGoel/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/PranayGoel/DSA/tree/master/0368-largest-divisible-subset) |
+| [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PranayGoel/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/PranayGoel/DSA/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/PranayGoel/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PranayGoel/DSA/tree/master/0075-sort-colors) |
+| [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
 | [1129-longest-string-chain](https://github.com/PranayGoel/DSA/tree/master/1129-longest-string-chain) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PranayGoel/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Indexed Tree
@@ -212,8 +216,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranayGoel/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranayGoel/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
