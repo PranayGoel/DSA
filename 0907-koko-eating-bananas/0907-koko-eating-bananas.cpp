@@ -30,7 +30,7 @@ public:
             int mid = low + (high-low)/2;
             int count = 0;
             for(auto pile: piles){
-                count += ceil((double)pile/mid);
+                count += (pile + mid -1) / mid;
             }
 
             if(count <= h) {
