@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PranayGoel/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PranayGoel/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/PranayGoel/DSA/tree/master/0876-hand-of-straights) |
+| [0907-koko-eating-bananas](https://github.com/PranayGoel/DSA/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/PranayGoel/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1121-partition-array-for-maximum-sum](https://github.com/PranayGoel/DSA/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/PranayGoel/DSA/tree/master/1129-longest-string-chain) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/PranayGoel/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PranayGoel/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
+| [0907-koko-eating-bananas](https://github.com/PranayGoel/DSA/tree/master/0907-koko-eating-bananas) |
 | [0923-super-egg-drop](https://github.com/PranayGoel/DSA/tree/master/0923-super-egg-drop) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PranayGoel/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Tree
