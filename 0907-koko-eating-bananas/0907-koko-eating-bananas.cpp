@@ -25,22 +25,24 @@ public:
         
         int low = 1;
         int high = *max_element(piles.begin(), piles.end());
-        
-        while(low < high){
+        int ans = high;
+
+        while(low <= high){
             int mid = low + (high-low)/2;
-            int count = 0;
+            long long  count = 0;
             for(auto pile: piles){
-                count += (pile + mid -1) / mid;
+                count += (pile + mid -1) / mid; //ceil(pile/mid)
             }
 
             if(count <= h) {
-                high = mid;
+                ans = mid;
+                high = mid-1;
             }
             else 
                 low = mid+1;
 
         }
-        return low;
-
+        return ans;
+        // tc - O(piles.size() * log(max_element))
     }
 };
