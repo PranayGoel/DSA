@@ -30,48 +30,46 @@ public:
 
 */
 
-
 class Solution {
 public:
+    bool possible(vector<int>& bloomDay, int m, int k, int mid){
+        int bouquets = 0;
+        int count = 0;
 
-    int isPossible(vector<int> arr, int day, int k, int m){
+        for(auto x : bloomDay){
+            if(mid >= x){
+                count++;
 
-        int count = 0, b = 0;
-
-        for(int j = 0; j< arr.size(); j++){
-            if(arr[j] <= day) count++;
-            else{
-                b+= count/k;
-                count = 0;
+                if(count == k){
+                    bouquets++;
+                    count = 0;
+                }
             }
+
+            else count = 0;
         }
-        b += count/k;
-        if(b >= m) return true;
-        else return false;
+
+        if(bouquets >= m) return true;
+
+        return false;
     }
 
+
     int minDays(vector<int>& bloomDay, int m, int k) {
-        int n = bloomDay.size();
+        int lo = 1, hi = INT_MIN;
+        int ans = -1;
 
-        if(n < (long long)m*k) return -1;
+        for(auto x : bloomDay) hi = max(hi, x);
 
-        int low = *min_element(bloomDay.begin(), bloomDay.end());
-        int high = *max_element(bloomDay.begin(), bloomDay.end());
-        
-        if(low == high) return low;
-        
-        int ans = high;
+        while(hi >= lo){
+            int mid = lo + (hi-lo)/2;
 
-        while(low <= high){
-            int mid = low + (high-low)/2;
-
-            if(isPossible(bloomDay, mid, k, m)) {
-                ans= mid;
-                high = mid-1;
+            if(possible(bloomDay, m, k, mid)){
+                ans = mid;
+                hi = mid - 1;
             }
-            else{
-                low = mid+1;
-            }
+
+            else lo = mid + 1;
         }
 
         return ans;
