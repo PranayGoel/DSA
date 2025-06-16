@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/PranayGoel/DSA/tree/master/1129-longest-string-chain) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/PranayGoel/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PranayGoel/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/PranayGoel/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/PranayGoel/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PranayGoel/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PranayGoel/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PranayGoel/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/PranayGoel/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PranayGoel/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/PranayGoel/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PranayGoel/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Tree
 |  |
