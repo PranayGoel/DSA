@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool check(int start, int n, vector<vector<int>>& graph,vector<int>& vis){
+    bool check_bfs(int start, int n, vector<vector<int>>& graph,vector<int>& vis){
         
         // 0,1
         vis[start] = 0;
@@ -27,6 +27,22 @@ public:
         return true;
     }
 
+    bool check_dfs(int node, int color, vector<vector<int>>& graph,vector<int>& vis){
+        vis[node] =  color;
+
+        for(auto adjnode: graph[node]){
+            if(vis[adjnode] == -1){
+                if(check_dfs(adjnode, !color, graph, vis)== false) return false;
+            }
+            else if(vis[adjnode] == color)
+                return false;
+        }
+
+        return true;
+    }
+
+
+
     bool isBipartite(vector<vector<int>>& graph) {
         
         int n = graph.size();
@@ -34,7 +50,8 @@ public:
         
         for(int i = 0; i< n; i++){
             if(vis[i] == -1){
-                if(check(i, n, graph, vis) == false) 
+                //if(check_bfs(i, n, graph, vis) == false) return false
+                if(check_dfs(i, 0, graph, vis) == false)
                     return false;
             }
         }
