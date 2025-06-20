@@ -23,7 +23,7 @@ public:
         int n = board[0].size();
 
         vector<vector<int>> vis(m, vector<int>(n, 0));
-
+        // traverse all the edge row and columns and start dfs from them, any 'O' encountered will be marked as visited and in the end all the unvisited 'O's are converted to 'X'
         for(int i = 0; i < m ;i++){
             if(!vis[i][0] && board[i][0] == 'O'){
                 dfs(i, 0, vis, board);
