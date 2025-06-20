@@ -1,5 +1,34 @@
 class Solution {
 public:
+    bool dfs(vector<vector<char>>& grid, vector<vector<int>>& vis, int row, int col, int prow, int pcol){
+        int m = grid.size();
+        int n = grid[0].size();
+
+        vis[row][col] = 1;
+
+        int delrow[4] = {-1, 0, 1, 0};
+        int delcol[4] = {0, -1, 0, 1};
+
+        for(int i = 0; i< 4; i++){
+            int nrow = row + delrow[i];
+            int ncol = col + delcol[i];
+
+            if(nrow < m && nrow >= 0 && ncol < n && ncol >= 0 && grid[nrow][ncol] == grid[row][col]){
+
+                if(!vis[nrow][ncol]){ // if the node is not visited, then run dfs on it
+                    if(dfs(grid, vis, nrow, ncol, row, col))
+                        return true;
+                }  
+                // if it is visited, then check if its the same as the parent node, if not return true as you have travelled back to the starting node
+                else if(prow != nrow || pcol != ncol)
+                    return true;
+            }
+        }
+
+        return false;
+    }
+
+
     bool containsCycle(vector<vector<char>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
@@ -9,41 +38,12 @@ public:
         for(int i = 0; i< m; i++){
             for(int j = 0; j < n; j++){
                 if(!vis[i][j]){
-                    queue<tuple<int, int, int, int>> q;
-                    q.push({i, j, -1, -1});
-                    vis[i][j] = 1;
-
-                    while(!q.empty()){
-                        auto [row, col, prow, pcol] = q.front();
-                        q.pop();
-
-                        int delrow[4] = {-1, 0, 1, 0};
-                        int delcol[4] = {0, -1, 0, 1};
-                        
-                        for(int k = 0; k< 4; k++){
-                            int nrow = row + delrow[k];
-                            int ncol = col + delcol[k];
-
-                            if(nrow >= 0 && nrow <m && ncol >= 0 && ncol < n && grid[nrow][ncol] == grid[row][col]){
-                                if(!vis[nrow][ncol]){
-                                    vis[nrow][ncol] = 1;
-                                    q.push({nrow, ncol, row, col});
-                                }
-                                else if(nrow != prow || ncol != pcol){
-                                    return true;
-                                }
-                            }
-                        }
-                    }
+                    if(dfs(grid, vis, i, j, -1, -1))
+                        return true;
                 }
             }
         }
-
         return false;
-        
-        
-
-
 
     }
 };
