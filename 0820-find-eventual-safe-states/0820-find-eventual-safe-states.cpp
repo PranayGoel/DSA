@@ -1,42 +1,39 @@
 class Solution {
 public:
-
-    bool dfs(int node, vector<vector<int>>& graph, vector<int>& vis, vector<int>& pathvis, vector<int>& check){
-        vis[node] = 1;
-        pathvis[node] = 1;
-        check[node] = 0;
-        for(auto it: graph[node]){
-            if(!vis[it]){
-                if(dfs(it, graph, vis, pathvis, check)){
-                    check[node] = 0;
-                    return true;
-                }
-            }
-            else if(pathvis[it]) {
-                check[node] = 0;
-                return true; // node has been visited and is int he same path
-            }
-        }
-
-        check[node] = 1;
-        pathvis[node] = 0;
-        return false;
-    }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n = graph.size();
+        vector<vector<int>> revgraph(n);
+        vector<int> in(n, 0);
 
-        vector<int> vis(n,0), pathvis(n, 0), check(n, 0);
-
-        vector<int> safeNodes;
-        for(int i = 0; i< n ;i++){
-            if(!vis[i]){
-                dfs(i, graph, vis, pathvis,check);
+        for(int i = 0; i< n; i++){
+            for(auto adjnode: graph[i]){
+                revgraph[adjnode].push_back(i);
+                in[i]++;
             }
         }
 
-        for(int i = 0; i< n ;i++){
-            if(check[i] == 1)  safeNodes.push_back(i);
+        queue<int> q;
+
+        for(int i = 0; i< n; i++){
+            if(in[i] == 0) q.push(i);
         }
-        return safeNodes;
+
+        vector<int> safe;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            safe.push_back(node);
+
+            for(auto adjnode: revgraph[node]){
+                in[adjnode]--;
+                if(in[adjnode] == 0){
+                    q.push(adjnode);
+                }
+            }
+        }
+
+        sort(safe.begin(),safe.end());
+        return safe;
     }
+
 };
