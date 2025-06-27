@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/PranayGoel/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/PranayGoel/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PranayGoel/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1753-path-with-minimum-effort](https://github.com/PranayGoel/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PranayGoel/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2808-painting-the-walls](https://github.com/PranayGoel/DSA/tree/master/2808-painting-the-walls) |
 ## Dynamic Programming
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/PranayGoel/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PranayGoel/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PranayGoel/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/PranayGoel/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/PranayGoel/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PranayGoel/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/PranayGoel/DSA/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/PranayGoel/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PranayGoel/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Tree
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PranayGoel/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/PranayGoel/DSA/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PranayGoel/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/PranayGoel/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/PranayGoel/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PranayGoel/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PranayGoel/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/PranayGoel/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -313,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/PranayGoel/DSA/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/PranayGoel/DSA/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PranayGoel/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/PranayGoel/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -324,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/PranayGoel/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/PranayGoel/DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1753-path-with-minimum-effort](https://github.com/PranayGoel/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
