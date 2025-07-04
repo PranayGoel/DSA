@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PranayGoel/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/PranayGoel/DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PranayGoel/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/PranayGoel/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2808-painting-the-walls](https://github.com/PranayGoel/DSA/tree/master/2808-painting-the-walls) |
 ## String
 |  |
@@ -389,14 +390,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/PranayGoel/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PranayGoel/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/PranayGoel/DSA/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/PranayGoel/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/PranayGoel/DSA/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/PranayGoel/DSA/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/PranayGoel/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/PranayGoel/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PranayGoel/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/PranayGoel/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
