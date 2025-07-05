@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PranayGoel/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PranayGoel/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/PranayGoel/DSA/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/PranayGoel/DSA/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/PranayGoel/DSA/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/PranayGoel/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/PranayGoel/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/PranayGoel/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/PranayGoel/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0721-accounts-merge](https://github.com/PranayGoel/DSA/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/PranayGoel/DSA/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/PranayGoel/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/PranayGoel/DSA/tree/master/1250-longest-common-subsequence) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/PranayGoel/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/PranayGoel/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/PranayGoel/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/PranayGoel/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/PranayGoel/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PranayGoel/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/PranayGoel/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/PranayGoel/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/PranayGoel/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/PranayGoel/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PranayGoel/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/PranayGoel/DSA/tree/master/0368-largest-divisible-subset) |
 | [0621-task-scheduler](https://github.com/PranayGoel/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/PranayGoel/DSA/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/PranayGoel/DSA/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/PranayGoel/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PranayGoel/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -270,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PranayGoel/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/PranayGoel/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/PranayGoel/DSA/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/PranayGoel/DSA/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/PranayGoel/DSA/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PranayGoel/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/PranayGoel/DSA/tree/master/1129-longest-string-chain) |
@@ -324,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/PranayGoel/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PranayGoel/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PranayGoel/DSA/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/PranayGoel/DSA/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/PranayGoel/DSA/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/PranayGoel/DSA/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/PranayGoel/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
