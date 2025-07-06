@@ -38,49 +38,25 @@ public:
 class Solution {
 public:
 
-    void bfs(int i, int j, vector<vector<int>>& vis, vector<vector<int>>& grid, DisjointSet &ds){
-        
-        int n = grid.size();
-        queue<pair<int,int>> q;
-        q.push({i, j});
-        vis[i][j] = 1;
-
-        while(!q.empty()){
-            int x = q.front().first;
-            int y = q.front().second;
-            q.pop();
-
-            int drow[4]= {-1, 0, 1, 0};
-            int dcol[4] = {0, -1, 0, 1};
-            for(int i = 0; i< 4; i++){
-                int nrow = x + drow[i];
-                int ncol = y + dcol[i];
-                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < n && !vis[nrow][ncol]){
-                    if(grid[nrow][ncol] == 1){
-                        int node = x*n + y;
-                        int adjnode = nrow*n+ncol;
-                        vis[nrow][ncol] = 1;
-                        q.push({nrow, ncol});
-
-                        if(ds.findUPar(node) != ds.findUPar(adjnode)){
-                            ds.unionBySize(node, adjnode);
-                        }
-                    }
-                }
-            }
-
-        }
-    }
-
     int largestIsland(vector<vector<int>>& grid) {
         int n = grid.size();
         vector<vector<int>> vis(n, vector<int>(n, 0));
         DisjointSet ds(n*n);
+        int drow[4]= {-1, 0, 1, 0};
+        int dcol[4] = {0, -1, 0, 1};
+
 
         for(int i = 0; i< n; i++){
             for(int j = 0; j < n; j++){
-                if(!vis[i][j] && grid[i][j] == 1){
-                    bfs(i, j, vis, grid, ds);
+                if(grid[i][j] == 1){
+                    for(int k = 0; k < 4; k++){
+                        int ni = i + drow[k];
+                        int nj = j + dcol[k];
+
+                        if (ni >= 0 && ni < n && nj >= 0 && nj < n && grid[ni][nj] == 1) {
+                            ds.unionBySize(i * n + j, ni * n + nj);
+                        }
+                    }
                 }
             }
         }
@@ -93,8 +69,7 @@ public:
                     hasZero = true;
                     int size = 0;
                     unordered_set<int> uniqueParents;
-                    int drow[4]= {-1, 0, 1, 0};
-                    int dcol[4] = {0, -1, 0, 1};
+                    
 
                     for(int k = 0; k< 4; k++){
                         int nrow = i + drow[k];
