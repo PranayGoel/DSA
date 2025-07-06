@@ -48,18 +48,18 @@ public:
         }
 
         DisjointSet ds(maxRow + maxCol + 1);
-        unordered_map<int, int> stoneNodes; 
+        unordered_set<int> stoneNodes; 
         for(auto stone: stones){
             int nodeRow = stone[0];
             int nodeCol = stone[1] + maxRow + 1;
             ds.unionBySize(nodeRow, nodeCol);
-            stoneNodes[nodeRow] = 1;
-            stoneNodes[nodeCol] = 1;
+            stoneNodes.insert(nodeRow);
+            stoneNodes.insert(nodeCol);
         }
 
         int cnt = 0;
         for(auto it: stoneNodes){
-            if(ds.findUPar(it.first)== it.first){
+            if(ds.findUPar(it)== it){
                 cnt++;
             }
         }
