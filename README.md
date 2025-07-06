@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PranayGoel/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PranayGoel/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/PranayGoel/DSA/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/PranayGoel/DSA/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/PranayGoel/DSA/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/PranayGoel/DSA/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/PranayGoel/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/PranayGoel/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PranayGoel/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/PranayGoel/DSA/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/PranayGoel/DSA/tree/master/0854-making-a-large-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PranayGoel/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/PranayGoel/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/PranayGoel/DSA/tree/master/1073-number-of-enclaves) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/PranayGoel/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PranayGoel/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/PranayGoel/DSA/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/PranayGoel/DSA/tree/master/0854-making-a-large-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PranayGoel/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/PranayGoel/DSA/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/PranayGoel/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/PranayGoel/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PranayGoel/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/PranayGoel/DSA/tree/master/0542-01-matrix) |
+| [0854-making-a-large-island](https://github.com/PranayGoel/DSA/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/PranayGoel/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/PranayGoel/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PranayGoel/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/PranayGoel/DSA/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/PranayGoel/DSA/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/PranayGoel/DSA/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/PranayGoel/DSA/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/PranayGoel/DSA/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/PranayGoel/DSA/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PranayGoel/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
