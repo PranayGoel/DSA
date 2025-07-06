@@ -37,23 +37,35 @@ public:
 class Solution {
 public:
     int removeStones(vector<vector<int>>& stones) {
-        DisjointSet ds(stones.size());
-        for(int i = 0; i < stones.size(); i++){
-            for(int j = 0; j < stones.size(); j++){
-                if(stones[i][0] == stones[j][0] || stones[i][1] == stones[j][1]){
-                    if(ds.findUPar(i) != ds.findUPar(j))
-                        ds.unionBySize(i, j);
-                }
+        int n = stones.size();
+
+        int maxRow = 0;
+        int maxCol = 0;
+
+        for(auto it: stones){
+            maxRow = max(maxRow,it[0]);
+            maxCol= max(maxCol, it[1]);
+        }
+
+        DisjointSet ds(maxRow + maxCol + 1);
+        unordered_map<int, int> stoneNodes; 
+        for(auto stone: stones){
+            int nodeRow = stone[0];
+            int nodeCol = stone[1] + maxRow + 1;
+            ds.unionBySize(nodeRow, nodeCol);
+            stoneNodes[nodeRow] = 1;
+            stoneNodes[nodeCol] = 1;
+        }
+
+        int cnt = 0;
+        for(auto it: stoneNodes){
+            if(ds.findUPar(it.first)== it.first){
+                cnt++;
             }
         }
 
-        int ans = 0;
-        for(int i = 0; i< stones.size(); i++){
-            if(ds.parent[i] == i){
-                ans += ds.size[i] - 1;
-            }
-        }
+        return n- cnt;
 
-        return ans;
+
     }
 };
