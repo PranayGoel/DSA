@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/PranayGoel/DSA/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/PranayGoel/DSA/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/PranayGoel/DSA/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/PranayGoel/DSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/PranayGoel/DSA/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/PranayGoel/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/PranayGoel/DSA/tree/master/1036-rotting-oranges) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/PranayGoel/DSA/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PranayGoel/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/PranayGoel/DSA/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/PranayGoel/DSA/tree/master/0890-lemonade-change) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PranayGoel/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Binary Search
 |  |
