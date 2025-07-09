@@ -23,8 +23,7 @@ public:
         }
     }
 
-    int count_pairs(vector<int>& arr, int low, int mid, int high) {
-        int count = 0;
+    void count_pairs(vector<int>& arr, int low, int mid, int high, int& count) {
         int right = mid + 1;
         for (int i = low; i <= mid; i++) {
             while (right <= high && (long long)arr[i] > 2LL * arr[right]) {
@@ -32,24 +31,23 @@ public:
             }
             count += (right - (mid + 1));
         }
-        return count;
     }
 
-    int mergeSort(vector<int>& arr, int low, int high) {
-        if (low >= high) return 0;
+    void mergeSort(vector<int>& arr, int low, int high, int& count) {
+        if (low >= high) return;
 
         int mid = low + (high - low) / 2;
-        int count = 0;
 
-        count += mergeSort(arr, low, mid);
-        count += mergeSort(arr, mid + 1, high);
-        count += count_pairs(arr, low, mid, high);
+        mergeSort(arr, low, mid, count);
+        mergeSort(arr, mid + 1, high, count);
+        count_pairs(arr, low, mid, high, count);
         merge(arr, low, mid, high);
 
-        return count;
     }
 
     int reversePairs(vector<int>& nums) {
-        return mergeSort(nums, 0, nums.size() - 1);
+        int count = 0;
+        mergeSort(nums, 0, nums.size() - 1, count);
+        return count;
     }
 };
