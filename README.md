@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/PranayGoel/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/PranayGoel/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/PranayGoel/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0493-reverse-pairs](https://github.com/PranayGoel/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/PranayGoel/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/PranayGoel/DSA/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PranayGoel/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/PranayGoel/DSA/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/PranayGoel/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/PranayGoel/DSA/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/PranayGoel/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PranayGoel/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/PranayGoel/DSA/tree/master/0907-koko-eating-bananas) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PranayGoel/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranayGoel/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/PranayGoel/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/PranayGoel/DSA/tree/master/0493-reverse-pairs) |
 | [1014-k-closest-points-to-origin](https://github.com/PranayGoel/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Math
 |  |
@@ -319,10 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/PranayGoel/DSA/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PranayGoel/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/PranayGoel/DSA/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/PranayGoel/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Memoization
 |  |
@@ -409,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PranayGoel/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/PranayGoel/DSA/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
 | ------- |
@@ -452,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/PranayGoel/DSA/tree/master/0678-valid-parenthesis-string) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PranayGoel/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
