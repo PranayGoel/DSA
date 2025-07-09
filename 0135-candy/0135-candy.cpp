@@ -9,8 +9,8 @@ public:
             }
         }
         for(int i = n-2; i >= 0; i--){
-            while(ratings[i] > ratings[i+1] && candies[i] <= candies[i+1]){
-                candies[i]++;
+            if(ratings[i] > ratings[i+1] && candies[i] <= candies[i+1]){
+                candies[i] = candies[i+1] + 1;
             }
         }
 
