@@ -1,22 +1,25 @@
-bool comp(vector<int> a, vector<int> b){
-    return a[1] < b[1];
-}
+
 class Solution {
 public:
-    
-    int findLongestChain(vector<vector<int>>& pairs) {
-        sort(pairs.begin(), pairs.end(), comp);
+    int f(int ind,  int prev, vector<vector<int>>& pairs, vector<vector<int>>& dp){
+        if(ind == pairs.size()) return 0;
 
-        int count = 1;
-        int lastRight = pairs[0][1];
+        if(dp[ind][prev+1] != -1) return dp[ind][prev+1];
 
-        for(int i = 1; i< pairs.size(); i++){
-            if(pairs[i][0] > lastRight){
-                count++;
-                lastRight = pairs[i][1];
-            }
+        int not_pick = f(ind+1, prev, pairs, dp);
+
+        int pick = 0;
+
+        if(prev == -1 || pairs[ind][0] > pairs[prev][1]){
+            pick = 1 + f(ind + 1, ind, pairs, dp);
         }
+        return dp[ind][prev+1] = max(pick, not_pick);
+    }
+    int findLongestChain(vector<vector<int>>& pairs) {
+        int n = pairs.size();
+        vector<vector<int>> dp(n, vector<int>(n+1, -1));
+        sort(pairs.begin(), pairs.end());
+        return f(0,-1, pairs, dp);
 
-        return count;
     }
 };
