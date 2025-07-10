@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/PranayGoel/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PranayGoel/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PranayGoel/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1983-maximum-population-year](https://github.com/PranayGoel/DSA/tree/master/1983-maximum-population-year) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/PranayGoel/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2808-painting-the-walls](https://github.com/PranayGoel/DSA/tree/master/2808-painting-the-walls) |
 ## Dynamic Programming
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PranayGoel/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PranayGoel/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/PranayGoel/DSA/tree/master/0621-task-scheduler) |
+| [1983-maximum-population-year](https://github.com/PranayGoel/DSA/tree/master/1983-maximum-population-year) |
 ## Geometry
 |  |
 | ------- |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/PranayGoel/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PranayGoel/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1983-maximum-population-year](https://github.com/PranayGoel/DSA/tree/master/1983-maximum-population-year) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/PranayGoel/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Graph
 |  |
