@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/PranayGoel/DSA/tree/master/1983-maximum-population-year) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/PranayGoel/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2339-k-divisible-elements-subarrays](https://github.com/PranayGoel/DSA/tree/master/2339-k-divisible-elements-subarrays) |
+| [2479-meeting-rooms-iii](https://github.com/PranayGoel/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2808-painting-the-walls](https://github.com/PranayGoel/DSA/tree/master/2808-painting-the-walls) |
 ## Dynamic Programming
 |  |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/PranayGoel/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PranayGoel/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/PranayGoel/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2479-meeting-rooms-iii](https://github.com/PranayGoel/DSA/tree/master/2479-meeting-rooms-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/PranayGoel/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/PranayGoel/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2339-k-divisible-elements-subarrays](https://github.com/PranayGoel/DSA/tree/master/2339-k-divisible-elements-subarrays) |
+| [2479-meeting-rooms-iii](https://github.com/PranayGoel/DSA/tree/master/2479-meeting-rooms-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/PranayGoel/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/PranayGoel/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1753-path-with-minimum-effort](https://github.com/PranayGoel/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2479-meeting-rooms-iii](https://github.com/PranayGoel/DSA/tree/master/2479-meeting-rooms-iii) |
 ## Quickselect
 |  |
 | ------- |
@@ -496,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2339-k-divisible-elements-subarrays](https://github.com/PranayGoel/DSA/tree/master/2339-k-divisible-elements-subarrays) |
+## Simulation
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/PranayGoel/DSA/tree/master/2479-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
