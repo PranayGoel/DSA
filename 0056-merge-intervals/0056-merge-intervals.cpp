@@ -1,24 +1,27 @@
 class Solution {
 public:
-    static bool comp(vector<int>& i1, vector<int>& i2){
-        return i1[0] < i2[0];
-    }
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        sort(intervals.begin(), intervals.end(), comp);
+        map<int,int> line;
 
-        vector<vector<int>> merged;
+        for(auto interval: intervals){
+            line[interval[0]]++;
+            line[interval[1]]--;
+        }
 
-        merged.push_back(intervals[0]);
-
-        for(int i = 1; i< intervals.size(); i++){
-            if(merged.back()[1] >= intervals[i][0]){
-                merged.back()[1]= max(merged.back()[1], intervals[i][1]);
+        int start;
+        vector<vector<int>> ans;
+        int count = 0;
+        for(auto it: line){
+            if(count == 0){
+                start = it.first;
             }
-            else{
-                merged.push_back(intervals[i]);
+            count += it.second;
+
+            if(count == 0){
+                ans.push_back({start, it.first});
             }
         }
 
-        return merged;
+        return ans;
     }
 };
