@@ -4,28 +4,31 @@ public:
         int n = intervals.size();
 
         vector<vector<int>> ans;
+        map<int,int> mp;
 
-        int i = 0;
-
-        while(i < n && intervals[i][1] < newInterval[0]){
-            ans.push_back(intervals[i]);
-            i++;
+        for(int i = 0; i< n; i++){
+            mp[intervals[i][0]]++;
+            mp[intervals[i][1]]--;
         }
 
-        while(i < n && intervals[i][0] <= newInterval[1]){
-            newInterval[0] = min(intervals[i][0], newInterval[0]);
-            newInterval[1] = max(intervals[i][1], newInterval[1]);
-
-            i++;
-        }
-        ans.push_back(newInterval);
+        mp[newInterval[0]]++;
+        mp[newInterval[1]]--;
 
 
-        while(i< n){
-            ans.push_back(intervals[i]);
-            i++;
+        int count = 0;
+        int start;
+        for(auto it: mp){
+            if(count == 0){
+                start = it.first;
+            }
+            count += it.second;
+
+            if(count == 0){
+                ans.push_back({start, it.first});
+            }
         }
 
         return ans;
+        
     }
 };
