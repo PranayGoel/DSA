@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/PranayGoel/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/PranayGoel/DSA/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/PranayGoel/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0257-binary-tree-paths](https://github.com/PranayGoel/DSA/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/PranayGoel/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/PranayGoel/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/PranayGoel/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/PranayGoel/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/PranayGoel/DSA/tree/master/0494-target-sum) |
 ## Greedy
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PranayGoel/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PranayGoel/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/PranayGoel/DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/PranayGoel/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PranayGoel/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PranayGoel/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/PranayGoel/DSA/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/PranayGoel/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/PranayGoel/DSA/tree/master/0721-accounts-merge) |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PranayGoel/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PranayGoel/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/PranayGoel/DSA/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/PranayGoel/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
