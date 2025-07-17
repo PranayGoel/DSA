@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/PranayGoel/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PranayGoel/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0110-balanced-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/PranayGoel/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PranayGoel/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PranayGoel/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/PranayGoel/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PranayGoel/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0110-balanced-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/PranayGoel/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PranayGoel/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PranayGoel/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/PranayGoel/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/PranayGoel/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/PranayGoel/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/PranayGoel/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Ordered Set
 |  |
@@ -541,7 +545,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PranayGoel/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/PranayGoel/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PranayGoel/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PranayGoel/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/PranayGoel/DSA/tree/master/0450-delete-node-in-a-bst) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/PranayGoel/DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
