@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2339-k-divisible-elements-subarrays](https://github.com/PranayGoel/DSA/tree/master/2339-k-divisible-elements-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/PranayGoel/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2591-frog-jump-ii](https://github.com/PranayGoel/DSA/tree/master/2591-frog-jump-ii) |
+| [2690-house-robber-iv](https://github.com/PranayGoel/DSA/tree/master/2690-house-robber-iv) |
 | [2808-painting-the-walls](https://github.com/PranayGoel/DSA/tree/master/2808-painting-the-walls) |
 ## Dynamic Programming
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PranayGoel/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PranayGoel/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/PranayGoel/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2690-house-robber-iv](https://github.com/PranayGoel/DSA/tree/master/2690-house-robber-iv) |
 | [2808-painting-the-walls](https://github.com/PranayGoel/DSA/tree/master/2808-painting-the-walls) |
 ## String
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/PranayGoel/DSA/tree/master/0890-lemonade-change) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PranayGoel/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2591-frog-jump-ii](https://github.com/PranayGoel/DSA/tree/master/2591-frog-jump-ii) |
+| [2690-house-robber-iv](https://github.com/PranayGoel/DSA/tree/master/2690-house-robber-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PranayGoel/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/PranayGoel/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2591-frog-jump-ii](https://github.com/PranayGoel/DSA/tree/master/2591-frog-jump-ii) |
+| [2690-house-robber-iv](https://github.com/PranayGoel/DSA/tree/master/2690-house-robber-iv) |
 ## Tree
 |  |
 | ------- |
