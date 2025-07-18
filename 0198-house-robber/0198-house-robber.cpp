@@ -1,32 +1,32 @@
 class Solution {
 public:
-    int f(int ind, vector<int>& arr){
-        if(ind <0) return 0;
-        if(ind == 0) return arr[0];
+    int f(int ind, vector<int>& nums, vector<int>& dp){
+        
+        if(ind < 0) return 0;
+        if(ind == 0) return nums[0];
 
-        int pick = arr[ind] + f(ind-2, arr);
-        int not_pick = f(ind-1, arr);
+        if(dp[ind] != -1) return dp[ind];
+        int pick = nums[ind] + f(ind-2, nums, dp);
+        int not_pick = f(ind-1, nums, dp);
 
-        return max(pick, not_pick);
+        return dp[ind] = max(pick, not_pick);
     }
+    int rob(vector<int>& nums) {
+        int n = nums.size();
 
-    int rob(vector<int>& arr) {
-        int n = arr.size();
+        vector<int> dp(n, 0);
 
-        int prev1 = arr[0];
-        int prev2 = 0;
-        int cur;
-        for(int i = 1; i< n; i++){
-            if(i == 1) cur = max(arr[i], prev1);
-            else{
-                int pick = arr[i] + prev2;
-                int not_pick = prev1;
+        dp[0] = nums[0];
 
-                cur = max(pick, not_pick);
-            }
-            prev2 = prev1;
-            prev1 = cur;
+        for(int ind = 1; ind< n ;ind++){
+            int pick;
+            if(ind == 1) pick = nums[ind];
+            else pick = nums[ind] + dp[ind-2];
+            int not_pick = dp[ind-1];
+
+            dp[ind] = max(pick, not_pick);
         }
-        return prev1;
+
+        return dp[n-1];
     }
 };
