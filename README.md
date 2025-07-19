@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/PranayGoel/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2339-k-divisible-elements-subarrays](https://github.com/PranayGoel/DSA/tree/master/2339-k-divisible-elements-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/PranayGoel/DSA/tree/master/2479-meeting-rooms-iii) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/PranayGoel/DSA/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2591-frog-jump-ii](https://github.com/PranayGoel/DSA/tree/master/2591-frog-jump-ii) |
 | [2690-house-robber-iv](https://github.com/PranayGoel/DSA/tree/master/2690-house-robber-iv) |
 | [2808-painting-the-walls](https://github.com/PranayGoel/DSA/tree/master/2808-painting-the-walls) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-number-of-flowers-in-full-bloom](https://github.com/PranayGoel/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2339-k-divisible-elements-subarrays](https://github.com/PranayGoel/DSA/tree/master/2339-k-divisible-elements-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/PranayGoel/DSA/tree/master/2479-meeting-rooms-iii) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/PranayGoel/DSA/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Two Pointers
 |  |
 | ------- |
