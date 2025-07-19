@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PranayGoel/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PranayGoel/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1983-maximum-population-year](https://github.com/PranayGoel/DSA/tree/master/1983-maximum-population-year) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/PranayGoel/DSA/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/PranayGoel/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2339-k-divisible-elements-subarrays](https://github.com/PranayGoel/DSA/tree/master/2339-k-divisible-elements-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/PranayGoel/DSA/tree/master/2479-meeting-rooms-iii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/PranayGoel/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/PranayGoel/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/PranayGoel/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/PranayGoel/DSA/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2690-house-robber-iv](https://github.com/PranayGoel/DSA/tree/master/2690-house-robber-iv) |
 | [2808-painting-the-walls](https://github.com/PranayGoel/DSA/tree/master/2808-painting-the-walls) |
 ## String
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/PranayGoel/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PranayGoel/DSA/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/PranayGoel/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/PranayGoel/DSA/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 ## Union Find
 |  |
 | ------- |
