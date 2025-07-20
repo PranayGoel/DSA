@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/PranayGoel/DSA/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/PranayGoel/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/PranayGoel/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/PranayGoel/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PranayGoel/DSA/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/PranayGoel/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/PranayGoel/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PranayGoel/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranayGoel/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/PranayGoel/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/PranayGoel/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/PranayGoel/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/PranayGoel/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/PranayGoel/DSA/tree/master/0368-largest-divisible-subset) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PranayGoel/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/PranayGoel/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/PranayGoel/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/PranayGoel/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PranayGoel/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/PranayGoel/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/PranayGoel/DSA/tree/master/0621-task-scheduler) |
