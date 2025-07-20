@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/PranayGoel/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/PranayGoel/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/PranayGoel/DSA/tree/master/0721-accounts-merge) |
+| [1078-remove-outermost-parentheses](https://github.com/PranayGoel/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/PranayGoel/DSA/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/PranayGoel/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/PranayGoel/DSA/tree/master/1250-longest-common-subsequence) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/PranayGoel/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/PranayGoel/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1078-remove-outermost-parentheses](https://github.com/PranayGoel/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Ordered Set
 |  |
 | ------- |
