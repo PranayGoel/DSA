@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/PranayGoel/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/PranayGoel/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/PranayGoel/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/PranayGoel/DSA/tree/master/0127-word-ladder) |
