@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PranayGoel/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/PranayGoel/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/PranayGoel/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PranayGoel/DSA/tree/master/0055-jump-game) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PranayGoel/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/PranayGoel/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/PranayGoel/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/PranayGoel/DSA/tree/master/0115-distinct-subsequences) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PranayGoel/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/PranayGoel/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/PranayGoel/DSA/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/PranayGoel/DSA/tree/master/0295-find-median-from-data-stream) |
