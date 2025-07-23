@@ -10,7 +10,7 @@ public:
 
             maxf = max(maxf, mp[s[r]]);
 
-            while(r-l+1 - maxf > k){
+            if(r-l+1 - maxf > k){
                 mp[s[l]]--;
                 maxf = 0;
                 for(auto it: mp){
