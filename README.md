@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/PranayGoel/DSA/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/PranayGoel/DSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/PranayGoel/DSA/tree/master/0907-koko-eating-bananas) |
+| [0966-binary-subarrays-with-sum](https://github.com/PranayGoel/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/PranayGoel/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/PranayGoel/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/PranayGoel/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/PranayGoel/DSA/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/PranayGoel/DSA/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/PranayGoel/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0966-binary-subarrays-with-sum](https://github.com/PranayGoel/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PranayGoel/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/PranayGoel/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/PranayGoel/DSA/tree/master/1129-longest-string-chain) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/PranayGoel/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
+| [0966-binary-subarrays-with-sum](https://github.com/PranayGoel/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/PranayGoel/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Bucket Sort
 |  |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/PranayGoel/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PranayGoel/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/PranayGoel/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/PranayGoel/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1983-maximum-population-year](https://github.com/PranayGoel/DSA/tree/master/1983-maximum-population-year) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/PranayGoel/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
