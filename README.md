@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/PranayGoel/DSA/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/PranayGoel/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/PranayGoel/DSA/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/PranayGoel/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PranayGoel/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/PranayGoel/DSA/tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/PranayGoel/DSA/tree/master/1121-partition-array-for-maximum-sum) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/PranayGoel/DSA/tree/master/0907-koko-eating-bananas) |
 | [0923-super-egg-drop](https://github.com/PranayGoel/DSA/tree/master/0923-super-egg-drop) |
+| [1046-max-consecutive-ones-iii](https://github.com/PranayGoel/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PranayGoel/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/PranayGoel/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/PranayGoel/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
+| [1046-max-consecutive-ones-iii](https://github.com/PranayGoel/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/PranayGoel/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PranayGoel/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/PranayGoel/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1983-maximum-population-year](https://github.com/PranayGoel/DSA/tree/master/1983-maximum-population-year) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/PranayGoel/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Graph
