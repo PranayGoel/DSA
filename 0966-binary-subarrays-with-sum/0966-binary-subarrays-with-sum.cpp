@@ -1,27 +1,20 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int goal){
-        if(goal < 0) return 0;
-        int n = nums.size();
 
-        int l = 0, r = 0, count = 0;
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+        unordered_map<int, int> sumFreq;
+        sumFreq[0] = 1;
         int sum = 0;
-        while(r < n){
-            sum += nums[r];
+        int count = 0;
+        for(auto num: nums){
+            sum += num;
 
-            while(sum > goal){
-                sum  = sum - nums[l];
-                l++;
+            if(sumFreq.count(sum - goal)){
+                count += sumFreq[sum-goal]; 
             }
 
-            count += r -l +1;
-
-            r++;
+            sumFreq[sum]++;
         }
-
         return count;
-    }
-    int numSubarraysWithSum(vector<int>& nums, int goal) {
-        return solve(nums, goal) - solve(nums, goal-1);
     }
 };
