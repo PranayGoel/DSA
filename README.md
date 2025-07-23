@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PranayGoel/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/PranayGoel/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/PranayGoel/DSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/PranayGoel/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/PranayGoel/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/PranayGoel/DSA/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/PranayGoel/DSA/tree/master/0132-palindrome-partitioning-ii) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/PranayGoel/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/PranayGoel/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/PranayGoel/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/PranayGoel/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PranayGoel/DSA/tree/master/0169-majority-element) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/PranayGoel/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/PranayGoel/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/PranayGoel/DSA/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/PranayGoel/DSA/tree/master/0966-binary-subarrays-with-sum) |
